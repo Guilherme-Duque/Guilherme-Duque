@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="left">-1/4 years software engineering in Unicesumar Maringá/PR Brazil</h5>
+<h5 align="left">-2/4 years software engineering in Unicesumar Maringá/PR Brazil</h5>
 
 ###
 
